@@ -1,0 +1,16 @@
+CSS - Cascading Style sheet 
+
+tag são seletores naturias (elementos)
+elementos personalizados
+    classes (class)
+            conjuntos de elementos
+            indentificadores (id)
+                 apenas um, individulizando o elemento 
+
+CSS
+ inline (paramento Style)
+ imbutido ou interno (tag stlye)    
+ extreno (tag link)
+    link relacionamento reférencia 
+    link rel="stylesheet" href=" online ou local" 
+é possivel    
